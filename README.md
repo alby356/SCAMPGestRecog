@@ -1,3 +1,6 @@
+https://www.kaggle.com/datasets/alby356/gestures2
+https://www.kaggle.com/datasets/alby356/gestures3
+
 | File | Role |
 |---|---|
 | `REGISTER_ENUMS.hpp` | Two small `enum class`es (`AENUM` for analog registers, `DENUM` for digital registers) so helper functions can take "which register" as an ordinary runtime value. |
