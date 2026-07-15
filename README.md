@@ -1,5 +1,4 @@
-https://www.kaggle.com/datasets/alby356/gestures2
-https://www.kaggle.com/datasets/alby356/gestures3
+https://www.kaggle.com/datasets/alby356/gestures2 <br>https://www.kaggle.com/datasets/alby356/gestures3
 
 | File | Role |
 |---|---|
