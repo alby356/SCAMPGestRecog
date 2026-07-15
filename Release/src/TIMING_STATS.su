@@ -1,0 +1,10 @@
+C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/stl_list.h:903:7:std::__cxx11::list<_Tp, _Alloc>::~list() [with _Tp = long unsigned int; _Alloc = std::allocator<long unsigned int>]	16	static
+C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/stl_list.h:903:7:std::__cxx11::list<_Tp, _Alloc>::~list() [with _Tp = std::__cxx11::basic_string<char>; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]	16	static
+C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/basic_string.h:808:7:constexpr std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::~basic_string() [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]	8	static
+../src/TIMING_STATS.cpp:28:7:void TIMING_STATS::print_and_clear(bool)	360	static
+../src/TIMING_STATS.cpp:78:6:void tick(std::string, int)	32	static
+../src/TIMING_STATS.cpp:88:6:void tick(std::string)	24	static
+../src/TIMING_STATS.cpp:98:6:void tock()	48	static
+../src/TIMING_STATS.cpp:139:6:void tick_frame()	8	static
+../src/TIMING_STATS.cpp:144:6:void tock_frame()	8	static
+../src/TIMING_STATS.cpp:148:1:cpp)	24	static

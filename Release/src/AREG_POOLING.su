@@ -1,0 +1,2 @@
+C:\Users\alber\Documents\MCUXpressoIDE_25.6.136\workspace\s5d_m0\inc/scamp5_kernel_api.hpp:102:5:scamp5_kernel::~scamp5_kernel()	24	static
+../src/AREG_POOLING.cpp:6:6:void MAX_POOL_F(int, bool, bool, bool)	104	static

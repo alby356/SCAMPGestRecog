@@ -1,0 +1,12 @@
+C:\Users\alber\Documents\MCUXpressoIDE_25.6.136\workspace\s5d_m0\inc/scamp5_kernel_api.hpp:102:5:scamp5_kernel::~scamp5_kernel()	24	static
+../src/IMG_SCALING_DIGITAL.cpp:21:9:void IMGTF::SCALING::DIGITAL::STEP_SCALE_UP_R11(int)	56	static
+../src/IMG_SCALING_DIGITAL.cpp:61:9:void IMGTF::SCALING::DIGITAL::STEP_SCALE_DOWN_R11(int)	56	static
+../src/IMG_SCALING_DIGITAL.cpp:100:9:void IMGTF::SCALING::DIGITAL::STEP_SCALE_UPY_R11(int)	40	static
+../src/IMG_SCALING_DIGITAL.cpp:127:9:void IMGTF::SCALING::DIGITAL::STEP_SCALE_DOWNY_R11(int)	40	static
+../src/IMG_SCALING_DIGITAL.cpp:154:9:void IMGTF::SCALING::DIGITAL::STEP_SCALE_UPX_R11(int)	40	static
+../src/IMG_SCALING_DIGITAL.cpp:181:9:void IMGTF::SCALING::DIGITAL::STEP_SCALE_DOWNX_R11(int)	40	static
+../src/IMG_SCALING_DIGITAL.cpp:208:9:void IMGTF::SCALING::DIGITAL::SCALE_Y(dreg_t, int, bool)	72	static
+../src/IMG_SCALING_DIGITAL.cpp:233:9:void IMGTF::SCALING::DIGITAL::SCALE_X(dreg_t, int, bool)	72	static
+../src/IMG_SCALING_DIGITAL.cpp:258:9:void IMGTF::SCALING::DIGITAL::SCALE(dreg_t, int, bool)	24	static
+../src/IMG_SCALING_DIGITAL.cpp:284:8:int IMGTF::SCALING::DIGITAL::STEP_SCALE(dreg_t, int, bool)	72	static
+../src/IMG_SCALING_DIGITAL.cpp:348:9:void IMGTF::SCALING::DIGITAL::HALF_SCALE(dreg_t)	112	static

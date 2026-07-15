@@ -1,0 +1,5 @@
+../src/IMG_TF_HELPER.cpp:8:16:unsigned char IMGTF::reverse_byte(unsigned char)	0	static
+../src/IMG_TF_HELPER.cpp:47:9:double IMGTF::sin_approx3(double)	32	static
+../src/IMG_TF_HELPER.cpp:52:9:double IMGTF::cos_approx3(double)	24	static
+../src/IMG_TF_HELPER.cpp:57:9:double IMGTF::acos_approx3(double)	32	static
+../src/IMG_TF_HELPER.cpp:62:9:double IMGTF::tan_approx3(double)	32	static
