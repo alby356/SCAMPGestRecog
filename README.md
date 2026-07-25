@@ -6,7 +6,7 @@
 
 Implementation of a hardware-aware convolutional neural network for the **SCAMP5 Pixel Processor Array (PPA)**, based on the paper:
 
-> **Fully Embedding Fast Convolutional Networks on Pixel Processor Arrays**
+https://arxiv.org/abs/2004.12525
 
 The entire inference pipeline executes directly on the imaging sensor, eliminating the need to stream intermediate image data to an external processor. The only output is the final gesture prediction, enabling extremely low-latency embedded vision for robotics and edge AI applications.
 
