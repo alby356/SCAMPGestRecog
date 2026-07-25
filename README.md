@@ -41,16 +41,7 @@ Gesture Prediction
 
 ---
 
-## Features
 
-- Fully on-sensor CNN inference using the SCAMP5 Pixel Processor Array
-- Hardware-aware convolution implementation optimized for SCAMP's SIMD architecture
-- Event-based preprocessing using frame differencing
-- Fully embedded convolutional and fully connected layers
-- Pre-trained network achieving **80%+ gesture recognition accuracy**
-- Designed for ultra-low-latency embedded vision applications
-
----
 
 ## Dataset
 
@@ -58,31 +49,3 @@ Event Gesture Dataset:
 
 https://www.kaggle.com/datasets/alby356/eventgestures
 
----
-
-## Repository Contents
-
-- SCAMP5 CNN implementation
-- Event preprocessing pipeline
-- Hardware-aware convolution operators
-- Fully connected layer implementation
-- Pre-trained model
-- Evaluation utilities
-
----
-
-## Applications
-
-This project demonstrates how deep learning models can execute directly on a vision sensor for applications including:
-
-- Gesture recognition
-- Human-robot interaction
-- Embedded computer vision
-- Edge AI
-- Low-power robotics
-
----
-
-## References
-
-> Fully Embedding Fast Convolutional Networks on Pixel Processor Arrays
