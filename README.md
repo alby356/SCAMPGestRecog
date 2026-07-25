@@ -1,6 +1,7 @@
 # On-Sensor, Event-Based Gesture Recognition Completely On-Sensor 
 
 Code for CNN project for Scamp5 PPA, demonstrating the methods presented in the paper "Fully Embedding Fast Convolutional Networks on Pixel Processor Arrays"
+
 ![image](https://cdn.phototourl.com/free/2026-07-25-71743543-2bbf-4c7f-b592-3ed589684200.png)
 
 Dataset:
