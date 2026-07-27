@@ -14,8 +14,6 @@ The entire inference pipeline executes directly on the imaging sensor, eliminati
 
 ## Demo
 
-![Demo](https://cdn.phototourl.com/free/2026-07-25-71743543-2bbf-4c7f-b592-3ed589684200.png)
-
 ---
 
 ## Pipeline
